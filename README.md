@@ -1,2 +1,0 @@
-# bajeta
-Web Development
